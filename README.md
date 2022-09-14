@@ -7,7 +7,7 @@
 # Cài đặt API
 - cài đặt visual studio code
 - add project vào thư mục
-- ###(nmp i) cài đặt các thư viện liên quan
-- chạy chương trình ###(node index)
+- chạy lệnh " npm i "  để cài đặt các thư viện liên quan
+- chạy chương trình  " node index "
 
 
